@@ -18,3 +18,6 @@ Takes in a file with a bunch of art objects, reads the file, parses the data int
 - And if "David by Donatello" in the data?
 
 Then it writes all of this data into a PrintWriter
+
+
+Test.java and TestAnalysis.java tests the functions of Art.java and ArtAnalysis.java
